@@ -19,8 +19,7 @@ h5 {
 hr {
 	background-color: red;
 	width: 30px;
-	transition: 2s;
-	margin: auto;
+	transition: 2s;	
 	margin-bottom: 40px;	
 }
 
@@ -29,9 +28,9 @@ hr {
 	border-radius: 300px;
 	background-color:red;
 	border:none;
+	margin: auto;
 	display:flex;
-	transition: .3s;
-	margin-right: 25px;
+	transition: .3s;	
 }
 
 .btn-primary:hover {
@@ -45,4 +44,6 @@ input:focus {
 	border-color:red;
 }
 
-
+form {
+	margin:auto;
+}
