@@ -19,7 +19,8 @@ h5 {
 hr {
 	background-color: red;
 	width: 30px;
-	transition: 2s;	
+	transition: 2s;
+	margin: auto;
 	margin-bottom: 40px;	
 }
 
