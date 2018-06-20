@@ -29,9 +29,9 @@ hr {
 	border-radius: 300px;
 	background-color:red;
 	border:none;
-	margin: auto;
 	display:flex;
-	transition: .3s;	
+	transition: .3s;
+	margin-right: 25px;
 }
 
 .btn-primary:hover {
